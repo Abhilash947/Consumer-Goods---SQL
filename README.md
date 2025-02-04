@@ -50,12 +50,7 @@ How to Use
 
 *  Navigate to the SQL Queries folder.
 *  Run the SQL scripts in your MySQL environment to extract the necessary data.
-
-2. Power BI Visualizations:
-
-*  Open the Power BI files in Power BI Desktop to view the visualizations.
-
-3. Presentation:
+2. Presentation:
 
 Open the PowerPoint file to view the presentation designed for top-level management.
 --------------------------------------------------------------------------------------------------------------------------------------------------
